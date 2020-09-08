@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #F5F5F5;
+}
+h1{
+    padding-bottom: 20px;
+}
+h1 span{
+    padding-bottom: 7px;
+    border-bottom: 2px solid #5CD3B4;
+    padding: 15px;
+    padding-left: 0px;
+}
+.form-box{
+    width: 35%;
+	margin: 25px auto;
+	background: white;
+	padding: 40px 20px;
+	text-align: center;
+}
+.name{
+	width: 60%;
+	padding: 10px;
+	margin-top: 20px;
+    margin-left: 30px;
+    border: 1px solid#EEEEEE;
+    
+}
+.label1{
+    color: #A1AEBE;
+
+}
+.email{
+	width: 60%;
+	padding: 10px;
+	margin-top: 20px;
+    margin-right: 0px;
+    border: 1px solid#EEEEEE;
+}
+.pass{
+	width: 60%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 33px;
+    border: 1px solid#EEEEEE;
+}
+.cmpass{
+	width: 60%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 28px;
+    border: 1px solid#EEEEEE;
+}
+.checkbox{
+	margin-top: 25px;
+	margin-left: 123px;
+}
+.policy{
+	text-decoration: none;
+    color: #9DE5FD;
+    margin-right: 10px;
+}
+.submit{
+	margin-top: 25px;
+	margin-left: -95px;
+	padding: 15px 40px;
+	color: white;
+    background: #5CD3B4;
+    border: 1px solid #5CD3B4;
+    border-radius: 3px;
+    
+}
+.label{
+    color: #9AA1AF;
+}
+p{
+    text-align: center;
+    color: #9AA1AF;
+}
+p a{
+    color: #5CD3B4;
+}
